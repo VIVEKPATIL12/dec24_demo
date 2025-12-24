@@ -2,5 +2,7 @@
 2.Data collection<br>
 3.Data pre-processing<br>
 4.Data Augumenatation<br>
-5.Train the model<br>
-6.Test on unseen data<br>
+5.This is the Data for the Feature2<br>
+6.Train<br>
+7.Test<br>
+8.post-processing
