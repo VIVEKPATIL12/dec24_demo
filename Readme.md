@@ -2,3 +2,5 @@
 2.Data collection<br>
 3.Data pre-processing<br>
 4.Data Augumenatation<br>
+5.Train the model<br>
+6.Test on unseen data<br>
